@@ -11,6 +11,8 @@
 |
 */
 
+//REFERENSI --> https://laravel-news.com/authorization-gates
+
 Route::get('/', function () {
     return view('welcome');
 });
